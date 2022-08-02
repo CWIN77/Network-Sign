@@ -1,8 +1,5 @@
-## npm
-### `npm install` to install package
-### `npm start` to start live server
+## Network sign
 
-## yarn-berry
-### `yarn set version berry` to set yarn berry
-### `yarn install` to install package
-### `yarn start` to start live server
+<br>
+
+[What can i do](https://github.com/CWIN77/README-contents/blob/master/react/typescript/README.md)
